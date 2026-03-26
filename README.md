@@ -1,4 +1,4 @@
-# Hey, I'm Gilman 👋
+# Hey, I'm Gilman <img src="assets/galexc-icon.png" width="36" height="36" alt="GalexC" style="vertical-align: middle;" />
 
 **I build startups that use real-world data to solve real-world problems.**
 
