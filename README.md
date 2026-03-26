@@ -23,13 +23,8 @@ This is what I'm commonly working with right now, clearly non-exhaustive and cha
 ### Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=thegalexc&show_icons=true&theme=transparent&hide_border=true&title_color=818cf8&icon_color=38bdf8&text_color=9ca3af&rank_icon=github" />
-  <img src="https://github-readme-stats.vercel.app/api?username=thegalexc&show_icons=true&hide_border=true" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=thegalexc&theme=transparent&hide_border=true&ring=818cf8&fire=38bdf8&currStreakLabel=818cf8&sideLabels=9ca3af&sideNums=e5e7eb&dates=6b7280&currStreakNum=e5e7eb" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=thegalexc&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=thegalexc&theme=transparent&hide_border=true&ring=818cf8&fire=38bdf8&currStreakLabel=818cf8&sideLabels=9ca3af&sideNums=e5e7eb&dates=6b7280&currStreakNum=e5e7eb" />
+  <img src="https://streak-stats.demolab.com?user=thegalexc&hide_border=true" />
 </picture>
 
 ### Connect
