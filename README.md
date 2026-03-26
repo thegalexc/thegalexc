@@ -20,6 +20,18 @@ This is what I'm commonly working with right now, clearly non-exhaustive and cha
 | :---: | :---: | :---: |
 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Postgres](https://img.shields.io/badge/-Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Tailscale](https://img.shields.io/badge/-Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white) |
 
+### Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=thegalexc&show_icons=true&theme=transparent&hide_border=true&title_color=818cf8&icon_color=38bdf8&text_color=9ca3af&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thegalexc&show_icons=true&hide_border=true" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=thegalexc&theme=transparent&hide_border=true&ring=818cf8&fire=38bdf8&currStreakLabel=818cf8&sideLabels=9ca3af&sideNums=e5e7eb&dates=6b7280&currStreakNum=e5e7eb" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=thegalexc&hide_border=true" />
+</picture>
+
 ### Connect
 
 [![galexc.me](https://img.shields.io/badge/-galexc.me-000?style=flat-square&logo=safari&logoColor=white)](https://galexc.me)
